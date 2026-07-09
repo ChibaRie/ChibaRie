@@ -36,8 +36,8 @@
 你好(@^0^@)/！歡迎來我家玩！
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chibarie&show_icons=true&hide_border=false&bg_color=14111F&title_color=FF4FA3&text_color=B7FFF7&icon_color=FFE34F&border_color=F6F1FF" alt="ChibaRie's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chibarie&layout=compact&hide_border=false&bg_color=14111F&title_color=FF4FA3&text_color=B7FFF7&border_color=F6F1FF" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chibarie&theme=tokyonight" alt="ChibaRie's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chibarie&theme=tokyonight" alt="Most used languages" />
 </div>
 
 <br />
