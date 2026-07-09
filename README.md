@@ -20,6 +20,9 @@
   <a href="https://www.instagram.com/chibarie_/">
     <img src="https://img.shields.io/badge/instagram-chibarie__-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://music.163.com/#/user/home?id=434554330">
+    <img src="https://img.shields.io/badge/music-Netease%20Music-C20C0C?style=flat&logo=neteasecloudmusic&logoColor=white" alt="Netease Music" />
+  </a>
 
   <br />
 
