@@ -34,11 +34,6 @@
 
 <br />
 
-<p align="center">
-  <strong>ChibaRie</strong><br />
-  <sub>你好(@^0^@)/！歡迎來我家玩！</sub>
-</p>
-
 <br />
 
 <div align="center">
